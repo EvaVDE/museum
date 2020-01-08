@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  auteur: MyString
+  titre: MyString
+  date: 2020-01-07
+  dimensions: MyString
+  photo: MyString
+  emotion: MyString
+  citation: MyText
+
+two:
+  auteur: MyString
+  titre: MyString
+  date: 2020-01-07
+  dimensions: MyString
+  photo: MyString
+  emotion: MyString
+  citation: MyText
